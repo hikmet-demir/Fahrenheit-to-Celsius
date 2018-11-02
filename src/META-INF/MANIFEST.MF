@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Z:\github\Fahrenheit-to-Celsius\out\production\Fahrenheit-to-Celsius
+Main-Class: GUI
+
